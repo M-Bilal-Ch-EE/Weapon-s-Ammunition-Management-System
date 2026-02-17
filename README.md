@@ -154,79 +154,70 @@ Each action is logged in the session log system.
 
 ---
 
-Upload the screenshots from your project report into the `images` folder using the same names (or adjust names in README accordingly).
+## 9.1 Main Menu Interface
+
+![Main Menu](images/menu_screen.png)
 
 ---
 
-### Display Inventory
+## 9.2 Display Inventory
 
 ![Display Inventory](images/display_inventory.png)
 
 ---
 
-### Add New Item
+## 9.3 Add New Item
 
 ![Add Item](images/add_item.png)
 
 ---
 
-### Remove Item
+## 9.4 Remove Item
 
 ![Remove Item](images/remove_item.png)
 
 ---
 
-### Update Item
+## 9.5 Update Item
 
 ![Update Item](images/update_item.png)
 
 ---
 
-### Sort by Name
+## 9.6 Sort Inventory by Name
 
 ![Sort Name](images/sort_name.png)
 
 ---
 
-### Sort by Type
+## 9.7 Sort Inventory by Type
 
 ![Sort Type](images/sort_type.png)
 
 ---
 
-### Sort by ID
+## 9.8 Sort Inventory by ID
 
 ![Sort ID](images/sort_id.png)
 
 ---
 
-### Search Item
+## 9.9 Search Item by ID
 
 ![Search Item](images/search_item.png)
 
 ---
 
-### BST Display
+## 9.10 Display Binary Search Tree
 
 ![BST Display](images/bst_display.png)
 
 ---
 
-### Session Report
+## 9.11 Exit and Session Report
 
 ![Session Report](images/session_report.png)
 
 ---
 
-## 10. Technologies Used
-
-- C++
-- Object-Oriented Programming
-- Linked Lists
-- Recursion
-- Binary Search Tree
-- Sorting Algorithms
-- Console-based interface
-
----
 
